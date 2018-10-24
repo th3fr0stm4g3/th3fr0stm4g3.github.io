@@ -1,0 +1,45 @@
+h1 {
+	margin: 0;
+}
+body {
+	background-color: black ;
+	color: white;
+}
+.container {
+	margin: 10%;
+	display: flex;
+	margin-top: 17%;
+	margin-left: 5%;
+}
+.euvclid, .keter {
+	width: 50% ;
+	text-align: center;
+
+}
+.task {
+	display: flex;
+	border: 2px solid white;
+
+}
+.ltask {
+	background-color:blue; 
+	width: 30%; 
+}
+.rtask{
+	width: 80%;
+}
+img {
+	width: 150%;
+}
+.weather {
+	display: flex;
+}
+.temp {
+	width: 80%;
+}
+.sun {
+	width: 20%;
+}
+.euvclid h1, .weather h1{
+	font-size: 2em;
+}
